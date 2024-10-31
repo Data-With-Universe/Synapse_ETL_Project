@@ -30,11 +30,3 @@ This project showcases the powerful capabilities of Azure Synapse Analytics thro
 ## Usage
 Detailed instructions on how to replicate the pipeline, configure the data sources, and utilize the SQL and Spark queries for data analysis and visualization.
 
-## Contributing
-We welcome contributions! Please read our contributing guidelines to get started.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-A special thanks to the Azure Synapse community for their support and resources.
