@@ -21,7 +21,7 @@ This project showcases the powerful capabilities of Azure Synapse Analytics thro
 ## Getting Started
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/Data-With-Universe/Synapse_ETL_Project.git
 
 2. **Set up Azure Synapse**: Follow the instructions in the setup guide to configure your Azure Synapse workspace.
 3. **Ingest Data**: Use the provided scripts to start transforming HTTP requests into Azure Storage.
